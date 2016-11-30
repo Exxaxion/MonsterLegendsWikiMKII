@@ -1,4 +1,6 @@
 # MonsterLegendsWiki
-My first Application
+### My first Application :
+
 All is about to make a list of Monsters
-Each Monster can be touched to show the detail page.
+
+Each Monster can be touched to show the detailled page.
