@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Monster Legends MKII</string>
+    <string name="egg">Oeuf :</string>
+    <string name="element">Type d\'élément :</string>
+    <string name="name">Nom</string>
+    <string name="stats">Caractéristiques :</string>
+    <string name="power">Pouvoir</string>
+    <string name="speed">Vitesse</string>
+    <string name="stamina">Endurance</string>
+    <string name="life">Vie</string>
+    <string name="evolutions">Evolutions :</string>
+    <string name="feu">Feu</string>
+</resources>

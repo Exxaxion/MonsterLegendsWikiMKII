@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Monster Legends MKII</string>
+    <string name="name">name</string>
+    <string name="egg">Egg :</string>
+    <string name="element">Element :</string>
+    <string name="stats">Stats :</string>
+    <string name="life">Life</string>
+    <string name="power">Power</string>
+    <string name="speed">Speed</string>
+    <string name="stamina">Stamina</string>
+    <string name="feu">Fire</string>
+    <string name="evolutions">Evolution :</string>
+</resources>
